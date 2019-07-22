@@ -5,11 +5,15 @@
 <meta charset="utf-8">
 </head>
 <body>
+
 <form action="" >
 <table border="0">
   <h1>
     MÜŞTERİ KAYIT
   </h1>
+  <p>
+    <img src="lahmacun.jpg"
+  </p>
 <tr>
 <td>Ad :</td>
 <td><input type="text" name="ad" id="ad" required placeholder="Lütfen Ad, Soyad Girin"></td>
