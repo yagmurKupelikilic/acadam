@@ -97,7 +97,7 @@ Kullanıcı Sözleşmesi <input type="checkbox"name="sozlesme" required >
 
 </form>
   <style>
-  table{margin:auto 50% ;
+  table{margin:auto ;
       border-collapse: separate;
   border-spacing: 5px;
     background:orange;
